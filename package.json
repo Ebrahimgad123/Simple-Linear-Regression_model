@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "js-regression": "^1.0.10",
+    "papaparse": "^5.4.1",
+    "plotly": "^1.0.6",
+    "regression": "^2.0.1"
+  }
+}
